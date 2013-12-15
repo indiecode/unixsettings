@@ -14,7 +14,7 @@ set background=dark
 colorscheme solarized
 filetype plugin indent on
 map <C-n> :NERDTreeToggle<CR>
-map <C-v> "*p
+map <C-v> "+p
 :set tags=./tags;/data/newwork
 
 
