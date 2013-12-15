@@ -4,3 +4,4 @@ git add .vimrc .bashrc
 git status
 git commit -m "adding bashrc and vimrc"
 git push -u origin master
+git clone https://github.com/ggreer/the_silver_searcher
