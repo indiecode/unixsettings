@@ -1,0 +1,6 @@
+git remote add origin https://github.com/indiecode/unixsettings.git
+ git add
+git add .vimrc .bashrc
+git status
+git commit -m "adding bashrc and vimrc"
+git push -u origin master
